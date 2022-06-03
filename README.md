@@ -1,4 +1,4 @@
-# fozy_flutter_app
+## fozy flutter app
 
 A new Flutter application.
 
